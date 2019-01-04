@@ -1,11 +1,11 @@
 
 ## gchart_line_chart.awk
 
-Create [Google Charts](https://developers.google.com/chart/) from the command line. This script is just one small component from[ArcShell](https://arclogicsoftware.com/arcshell), a commercial automation development framework for Bash.
+Create [Google Charts](https://developers.google.com/chart/) from the command line. This script is just one small component from [ArcShell](https://arclogicsoftware.com/arcshell), a commercial automation development framework for Bash.
 
 The YouTube video going over the release of this script is [here](https://youtu.be/otCuhDZjfAY).
 
-If you like my work follow me on [Twitter](https://twitter.com/), [LinkedIn](http://bit.ly/ethan_ray_post), or [YouTube](https://www.youtube.com/channel/UCpra53Vkmw5xdyOiEpaf_Kw). You can also subscribe to my low frequency newsletter [here](https://bit.ly/ethansnewsletter).  
+If you like my work follow me on [Twitter](https://twitter.com/poststop), [LinkedIn](https://bit.ly/ethan_ray_post), or [YouTube](https://www.youtube.com/channel/UCpra53Vkmw5xdyOiEpaf_Kw). You can also subscribe to my low frequency newsletter [here](https://bit.ly/ethansnewsletter).  
 
 ----
 
