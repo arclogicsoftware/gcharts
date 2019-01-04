@@ -1,9 +1,9 @@
 
 ## gchart_line_chart.awk
 
-> If you like my work follow me on [Twitter](https://twitter.com/) and [LinkedIn](http://bit.ly/ethan_ray_post). Sign can also sign up for a low frequency email list. And make sure you check out [ArcShell](https://arclogicsoftware.com/arcshell).s
+Create [Google Charts](https://developers.google.com/chart/) from the command line. This script is just one small component from[ArcShell](https://arclogicsoftware.com/arcshell), our commercial automation development framework for Bash.
 
-Create [Google Charts](https://developers.google.com/chart/) from the command line using this awk script.
+If you like my work follow me on [Twitter](https://twitter.com/) and [LinkedIn](http://bit.ly/ethan_ray_post). I also have a low frequency newsletter. If you want to know when I release another free tool you can [subscribe here](https://bit.ly/ethansnewsletter).
 
 The expected record format should look something like this.
  ```bash
@@ -27,5 +27,3 @@ tail -100 "vmstats.csv" | \
 If you have any questions you can reach me by email at post.ethan@gmail.com.
 
 Happy charting!
-
-
